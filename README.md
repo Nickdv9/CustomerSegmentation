@@ -1,0 +1,1 @@
+Using a shopping mall customer data taken from [kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=download) to demonstrate customer segmentation that resembles a newly occupied business scenario.
